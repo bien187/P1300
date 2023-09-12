@@ -1,0 +1,14 @@
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\bin\Debug\net6.0\RandomNumberGuesser2.exe
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\bin\Debug\net6.0\RandomNumberGuesser2.deps.json
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\bin\Debug\net6.0\RandomNumberGuesser2.runtimeconfig.json
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\bin\Debug\net6.0\RandomNumberGuesser2.dll
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\bin\Debug\net6.0\RandomNumberGuesser2.pdb
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\obj\Debug\net6.0\RandomNumberGuesser2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\obj\Debug\net6.0\RandomNumberGuesser2.AssemblyInfoInputs.cache
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\obj\Debug\net6.0\RandomNumberGuesser2.AssemblyInfo.cs
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\obj\Debug\net6.0\RandomNumberGuesser2.csproj.CoreCompileInputs.cache
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\obj\Debug\net6.0\RandomNumberGuesser2.dll
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\obj\Debug\net6.0\refint\RandomNumberGuesser2.dll
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\obj\Debug\net6.0\RandomNumberGuesser2.pdb
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\obj\Debug\net6.0\RandomNumberGuesser2.genruntimeconfig.cache
+C:\Users\ben-l\source\repos\RandomNumberGuesser2\RandomNumberGuesser2\obj\Debug\net6.0\ref\RandomNumberGuesser2.dll
