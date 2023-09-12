@@ -8,7 +8,7 @@
 | ----- | ------- | ------------------------------------------------------------ |
 |  16.08     | 0.0.1   | Planen des Spielablaufs |
 |  23.08     | 0.0.2   | Grobe Umsetzung des Spiels in C#                                      |
-|  30.08     | 0.0.3   |            Finden der eigenen Erweiterungen und grobe Implementierung von diesen                                                |
+|  30.08     | 0.0.3   |            Finden der eigenen Erweiterungen und grobe Implementierung von Diesen                                                |
 | 06.09     | 1.0.0   |           Ausbesserung des Codes und der Funktionen                                                   |
  
 ## 1 Informieren
@@ -48,40 +48,36 @@ Im Rahmen des Projektes 1300 im Fach Lernatelier, habe ich ein Zahlen-Rate-Spiel
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  16.08     |   Ben Mueller        |              |               |
-|  2.A    |       |    Ben Mueller       |              |               |
-|    3.A  |       |    Ben Mueller       |              |               |
-|   4.A   |       |    Ben Mueller       |              |               |
+| 1.A  |  16.08     |   Ben Mueller        |   Planen des Spielablaufs           |      120'         |
+|  2.A    |   23.08    |    Ben Mueller       |    Grobe Umsetzung des Spiels in C#                                                 |      180'         |
+|    3.A  |   30.08    |    Ben Mueller       |     Finden der eigenen Erweiterungen und grobe Implementierung von Diesen              |    120'           |
+|   4.A   |   06.09    |    Ben Mueller       |       Ausbesserung des Codes und der Funktionen             |    90'           |
 
 
-Total: 
+Total: 510'
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |   16.08    |   Ben Mueller        |      120'         |       90'            |
+| 2.A  |   23.08    |   Ben Mueller         |         180'      |      180'             |
+| 3.A  |   30.08    |   Ben Mueller         |             120'  |     150'              |
+| 4.A  |  06.09     |   Ben Mueller         |             90'  |       120'            |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+| 1.1  |  06.09      |   keine Fehler       |  Ben Mueller      |
+| 2.1  | 06.09       |   keine Fehler       |  Ben Mueller      |
+| 3.1  |   06.09     |   keine Fehler       |  Ben Mueller      |
+| 4.1  |   06.09     |   keine Fehler       |  Ben Mueller      |
+| 5.1  |  06.09      |   keine Fehler       |  Ben Mueller      |
